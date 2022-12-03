@@ -1,0 +1,3 @@
+- npm i
+- create database **acme-db**
+- npm run start:dev
